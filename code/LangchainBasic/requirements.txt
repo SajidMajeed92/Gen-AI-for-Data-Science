@@ -1,0 +1,4 @@
+langchain
+langchain_google_genai
+tenacity 
+google-generativeai
